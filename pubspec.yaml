@@ -22,3 +22,8 @@ flutter:
 
   assets:
     - images/
+
+  fonts:
+    - family: Balsamiq
+      fonts:
+        - asset: fonts/BalsamiqSans-Regular.ttf 
